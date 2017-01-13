@@ -1,6 +1,6 @@
 
 title: Net-Qure
-url: 'http://webjeda.com'
+url: 'www.net-qure.nl'
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -14,15 +14,13 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Net-QuRe
-tagline: awesome
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+tagline: A Neurotraumatology Quality Registry study <br> www.center-tbi.com
+pic: profile.png  #Net-Qure LOGO #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: tips@lumc.nl
+phone: 071 5262144
+website: www.lumc.nl/org/sips/ #do not add http://
+
 
 #Update all the sections by editing the files inside _includes folder.
