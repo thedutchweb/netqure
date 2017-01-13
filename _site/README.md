@@ -2,7 +2,7 @@ This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwav
 
 
 I have made this into a Jekyll Theme.
-**Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/)
+**Demo:** [http://webjeda.com/](http://webjeda.com/)
 
 The default theme would look like this
 
